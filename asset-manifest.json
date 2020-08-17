@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firegram/static/css/main.e3bd3a6e.chunk.css",
+    "main.js": "/firegram/static/js/main.d270c5d7.chunk.js",
+    "main.js.map": "/firegram/static/js/main.d270c5d7.chunk.js.map",
+    "runtime-main.js": "/firegram/static/js/runtime-main.9968160c.js",
+    "runtime-main.js.map": "/firegram/static/js/runtime-main.9968160c.js.map",
+    "static/js/2.dbf030fd.chunk.js": "/firegram/static/js/2.dbf030fd.chunk.js",
+    "static/js/2.dbf030fd.chunk.js.map": "/firegram/static/js/2.dbf030fd.chunk.js.map",
+    "index.html": "/firegram/index.html",
+    "precache-manifest.3f90e5c915fc6c0f6c78196166d620d2.js": "/firegram/precache-manifest.3f90e5c915fc6c0f6c78196166d620d2.js",
+    "service-worker.js": "/firegram/service-worker.js",
+    "static/css/main.e3bd3a6e.chunk.css.map": "/firegram/static/css/main.e3bd3a6e.chunk.css.map",
+    "static/js/2.dbf030fd.chunk.js.LICENSE.txt": "/firegram/static/js/2.dbf030fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9968160c.js",
+    "static/js/2.dbf030fd.chunk.js",
+    "static/css/main.e3bd3a6e.chunk.css",
+    "static/js/main.d270c5d7.chunk.js"
+  ]
+}
